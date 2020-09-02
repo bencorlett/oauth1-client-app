@@ -1,0 +1,1 @@
+<pre>{{{ dump($user) }}}</pre>
